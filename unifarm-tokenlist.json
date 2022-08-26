@@ -23,6 +23,16 @@
       "tags": []
     },
     {
+      "name": "SportZchainToken",
+      "symbol": "SPN",
+      "address": "0xCd8787987f87644F2815887Ac039D6607bd60897",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/spn.png",
+      "decimals": 18,
+      "price": 0.0001,
+      "chainId": 4,
+      "tags": []
+    },
+    {
       "name": "Polygon",
       "symbol": "MATIC",
       "address": "0xe98F9b3892229784ccc1Fb9BF7F45C3579354118",
