@@ -577,8 +577,21 @@
       "decimals": 18,
       "price": 0.000000083,
       "chainId": 4
+    },
+    {
+      "name": "Changex",
+      "symbol": "CHANGE",
+      "address": "0xe8C8a3f1272C6685c2E0e9eEC2FAb238855366d8",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/change.png",
+      "decimals": 18,
+      "price": 0.04,
+      "chainId": 4
     }
   ],
   "label": "maintained by Oro Pocket",
-  "keywords": ["defi", "open defi", "Oro Pocket"]
+  "keywords": [
+    "defi",
+    "open defi",
+    "Oro Pocket"
+  ]
 }
