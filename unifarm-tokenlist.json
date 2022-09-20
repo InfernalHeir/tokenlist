@@ -586,6 +586,15 @@
       "decimals": 18,
       "price": 0.04,
       "chainId": 4
+    },
+    {
+      "name": "Knit",
+      "symbol": "KFT",
+      "address": "0xA30f595809acdf021b2D61B9d8C15754529a73FE",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/kft.png",
+      "decimals": 18,
+      "price": 0.005,
+      "chainId": 4
     }
   ],
   "label": "maintained by Oro Pocket",
