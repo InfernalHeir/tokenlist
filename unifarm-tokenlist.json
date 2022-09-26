@@ -595,6 +595,15 @@
       "decimals": 18,
       "price": 0.005,
       "chainId": 4
+    },
+    {
+      "name": "BNB",
+      "symbol": "BNB",
+      "address": "0x3211bF8fe769b4969642C065b0c40e14a4eaAaae",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/bnb.png",
+      "decimals": 18,
+      "price": 265,
+      "chainId": 4
     }
   ],
   "label": "maintained by Oro Pocket",
