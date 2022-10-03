@@ -6,7 +6,7 @@
       "name": "ORO Token",
       "symbol": "ORO",
       "address": "0x9f998d62b81af019e3346af141f90cccd679825e",
-      "icon": "https://oropocket.com/unifarm/assets/icons/oro.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/oro.png",
       "decimals": 18,
       "price": 0.092,
       "chainId": 56
@@ -15,7 +15,7 @@
       "name": "JulSwap",
       "symbol": "JULD",
       "address": "0x5a41f637c3f7553dba6ddc2d3ca92641096577ea",
-      "icon": "https://oropocket.com/unifarm/assets/icons/julswap.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/julswap.png",
       "decimals": 18,
       "price": 0.14,
       "chainId": 56
@@ -24,7 +24,7 @@
       "name": "Multiplier",
       "symbol": "BMXX",
       "address": "0x4131b87f74415190425ccd873048c708f8005823",
-      "icon": "https://oropocket.com/unifarm/assets/icons/BMXX.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/BMXX.png",
       "decimals": 18,
       "price": 25,
       "chainId": 56
@@ -33,7 +33,7 @@
       "name": "Yellow Road",
       "symbol": "ROAD",
       "address": "0x1a3057027032a1af433f6f596cab15271e4d8196",
-      "icon": "https://oropocket.com/unifarm/assets/icons/yellowroad.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/yellowroad.png",
       "decimals": 18,
       "price": 13.02,
       "chainId": 56
@@ -42,7 +42,7 @@
       "name": "Unifarm Token",
       "symbol": "UFARM",
       "address": "0x40986a85b4cfcdb054a6cbfb1210194fee51af88",
-      "icon": "https://oropocket.com/unifarm/assets/icons/ufarm.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/ufarm.png",
       "decimals": 18,
       "price": 0.02,
       "chainId": 56
@@ -51,7 +51,7 @@
       "name": "Cook Protocol",
       "symbol": "COOK",
       "address": "0x965b0df5bda0e7a0649324d78f03d5f7f2de086a",
-      "icon": "https://oropocket.com/unifarm/assets/icons/cook.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/cook.png",
       "decimals": 18,
       "price": 0.08,
       "chainId": 56
@@ -60,7 +60,7 @@
       "name": "Umbrella Network",
       "symbol": "UMB",
       "address": "0x6fc13eace26590b80cccab1ba5d51890577d83b2",
-      "icon": "https://oropocket.com/unifarm/assets/icons/umbrella.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/umbrella.png",
       "decimals": 18,
       "price": 0.78,
       "chainId": 56
@@ -105,7 +105,7 @@
       "name": "GamyFi",
       "symbol": "GFX",
       "address": "0xe4fa3c576c31696322e8d7165c5965d5a1f6a1a5",
-      "icon": "https://oropocket.com/unifarm/assets/icons/gamyfi.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/gamyfi.png",
       "decimals": 18,
       "price": 0.81,
       "chainId": 56
@@ -114,7 +114,7 @@
       "name": "TeraBlock",
       "symbol": "TBC",
       "address": "0xeaf7d8395cce52daef138d39a1cefa51b97c15ae",
-      "icon": "https://oropocket.com/unifarm/assets/icons/terablock.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/terablock.png",
       "decimals": 18,
       "price": 0.036,
       "chainId": 56
@@ -123,7 +123,7 @@
       "name": "WSB Token",
       "symbol": "WSB",
       "address": "0x22168882276e5d5e1da694343b41dd7726eeb288",
-      "icon": "https://oropocket.com/unifarm/assets/icons/wsb.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/wsb.png",
       "decimals": 18,
       "price": 0.032,
       "chainId": 56
@@ -132,7 +132,7 @@
       "name": "Peanut",
       "symbol": "NUX",
       "address": "0x6d8734002fbffe1c86495e32c95f732fc77f6f2a",
-      "icon": "https://oropocket.com/unifarm/assets/icons/nux.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/nux.png",
       "decimals": 18,
       "price": 0.55,
       "chainId": 56
@@ -141,7 +141,7 @@
       "name": "Polkawar",
       "symbol": "PWAR",
       "address": "0x16153214e683018d5aa318864c8e692b66e16778",
-      "icon": "https://oropocket.com/unifarm/assets/icons/polkawar.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/polkawar.png",
       "decimals": 18,
       "price": 0.1,
       "chainId": 56
@@ -150,7 +150,7 @@
       "name": "Sokuswap",
       "symbol": "SOKU",
       "address": "0x0e4b5ea0259eb3d66e6fcb7cc8785817f8490a53",
-      "icon": "https://oropocket.com/unifarm/assets/icons/sokuswap.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/sokuswap.png",
       "decimals": 18,
       "price": 0.09,
       "chainId": 56
@@ -159,7 +159,7 @@
       "name": "Unifarm Token",
       "symbol": "UFARM",
       "address": "0x0A356f512f6fCE740111ee04Ab1699017a908680",
-      "icon": "https://oropocket.com/unifarm/assets/icons/ufarm.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/ufarm.png",
       "decimals": 18,
       "price": 0.002177,
       "chainId": 56
@@ -168,7 +168,7 @@
       "name": "ORO Token",
       "symbol": "ORO",
       "address": "0x3fF2348e44d09f07017BCDaaCc4be575c0Ec467f",
-      "icon": "https://oropocket.com/unifarm/assets/icons/oro.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/oro.png",
       "decimals": 18,
       "price": 0.092,
       "chainId": 56
@@ -177,7 +177,7 @@
       "name": "Binance-Peg BUSD Token",
       "symbol": "BUSD",
       "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
-      "icon": "https://oropocket.com/unifarm/assets/icons/Layer 56.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/Layer 56.png",
       "decimals": 18,
       "price": 1.0,
       "chainId": 56
@@ -186,7 +186,7 @@
       "name": "Cannumo",
       "symbol": "CANU",
       "address": "0xdbb66eb9f4d737b49ae5cd4de25e6c8da8b034f9",
-      "icon": "https://oropocket.com/unifarm/assets/icons/canu-new.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/canu-new.png",
       "decimals": 18,
       "price": 0.0016,
       "chainId": 56
@@ -195,7 +195,7 @@
       "name": "MilkyWay Token by SpaceSwap",
       "symbol": "MILK2",
       "address": "0x4a5a34212404f30c5ab7eb61b078fa4a55adc5a5",
-      "icon": "https://oropocket.com/unifarm/assets/icons/milk.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/milk.png",
       "decimals": 18,
       "price": 0.1139,
       "chainId": 56
@@ -204,7 +204,7 @@
       "name": "Smaugs NFT",
       "symbol": "SMG",
       "address": "0x6bfd576220e8444ca4cc5f89efbd7f02a4c94c16",
-      "icon": "https://oropocket.com/unifarm/assets/icons/smg.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/smg.png",
       "decimals": 8,
       "price": 0.064,
       "chainId": 56
@@ -231,7 +231,7 @@
       "name": "Hesh Fi",
       "symbol": "HESH",
       "address": "0x70de30c81ddee3a54b5dbdeb7d0ba029e80d34e2",
-      "icon": "https://oropocket.com/unifarm/assets/icons/hesh.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/hesh.png",
       "decimals": 8,
       "price": 3.66,
       "chainId": 56
@@ -240,7 +240,7 @@
       "name": "Manga Token",
       "symbol": "MANGA",
       "address": "0xc2cb89bbb5bba6e21db1dfe13493dfd7dcbabd68",
-      "icon": "https://oropocket.com/unifarm/assets/icons/manga.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/manga.png",
       "decimals": 18,
       "price": 0.0013,
       "chainId": 56
@@ -249,7 +249,7 @@
       "name": "Creator Chain",
       "symbol": "CTR",
       "address": "0xd6cce248263ea1e2b8cb765178c944fc16ed0727",
-      "icon": "https://oropocket.com/unifarm/assets/icons/ctr.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/ctr.png",
       "decimals": 18,
       "price": 0.4,
       "chainId": 56
@@ -258,7 +258,7 @@
       "name": "StartFi",
       "symbol": "STFI",
       "address": "0x04ae5cb48b8f968ed821972c5480b5b850f55554",
-      "icon": "https://oropocket.com/unifarm/assets/icons/stfi.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/stfi.png",
       "decimals": 18,
       "price": 0.125,
       "chainId": 56
@@ -267,7 +267,7 @@
       "name": "Derived",
       "symbol": "DVDX",
       "address": "0x4B4135A99775368f349b6f904808B648A9948393",
-      "icon": "https://oropocket.com/unifarm/assets/icons/dvdx.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/dvdx.png",
       "decimals": 18,
       "price": 0.06,
       "chainId": 56
@@ -276,7 +276,7 @@
       "name": "Raze Network",
       "symbol": "RAZE",
       "address": "0x65e66a61d0a8f1e686c2d6083ad611a10d84d97a",
-      "icon": "https://oropocket.com/unifarm/assets/icons/raze.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/raze.png",
       "decimals": 18,
       "price": 0.148,
       "chainId": 56
@@ -285,7 +285,7 @@
       "name": "Bitcashpay",
       "symbol": "BCPAY",
       "address": "0x21f1ce0FCf1E9E39F8e79B7762801E8096d9f6CD",
-      "icon": "https://oropocket.com/unifarm/assets/icons/bitcash.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/bitcash.png",
       "decimals": 8,
       "price": 0.049,
       "chainId": 56
@@ -294,7 +294,7 @@
       "name": "ItsMyne",
       "symbol": "MYNE",
       "address": "0xd254dc670ff725753a826a5f29a4001600cce29c",
-      "icon": "https://oropocket.com/unifarm/assets/icons/myne.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/myne.png",
       "decimals": 18,
       "price": 0.14,
       "chainId": 56
@@ -303,7 +303,7 @@
       "name": "Pacific DeFi",
       "symbol": "PACIFIC",
       "address": "0x054Ae19876B2a669c282503D5a76313290Bc6453",
-      "icon": "https://oropocket.com/unifarm/assets/icons/pacific.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/pacific.png",
       "decimals": 18,
       "price": 0.043,
       "chainId": 56
@@ -312,7 +312,7 @@
       "name": "Hedget Protocol",
       "symbol": "HGET",
       "address": "0xc7d8d35eba58a0935ff2d5a33df105dd9f071731",
-      "icon": "https://oropocket.com/unifarm/assets/icons/hget.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/hget.png",
       "decimals": 6,
       "price": 4.92,
       "chainId": 56
@@ -321,7 +321,7 @@
       "name": "Travel Coin",
       "symbol": "TCOIN",
       "address": "0xb8b10DaFb5546b3740886D8a77b8b9bACB44fFfD",
-      "icon": "https://oropocket.com/unifarm/assets/icons/tcoin.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/tcoin.png",
       "decimals": 4,
       "price": 0.2,
       "chainId": 56
@@ -330,7 +330,7 @@
       "name": "CoinSwap Space",
       "symbol": "CSS",
       "address": "0x3bc5798416c1122bcfd7cb0e055d50061f23850d",
-      "icon": "https://oropocket.com/unifarm/assets/icons/css.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/css.png",
       "decimals": 18,
       "price": 0.07,
       "chainId": 56
@@ -339,7 +339,7 @@
       "name": "HASH Token",
       "symbol": "HASH",
       "address": "0xeb1112ac78d537853150e2a07e8b765e29d3f019",
-      "icon": "https://oropocket.com/unifarm/assets/icons/hash.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/hash.png",
       "decimals": 18,
       "price": 0.037,
       "chainId": 56
@@ -348,7 +348,7 @@
       "name": "Jade Protocol",
       "symbol": "JADE",
       "address": "0x7ad7242a99f21aa543f9650a56d141c57e4f6081",
-      "icon": "https://oropocket.com/unifarm/assets/icons/jade.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/jade.png",
       "decimals": 9,
       "price": 422.58,
       "chainId": 56
@@ -357,7 +357,7 @@
       "name": "gotEM",
       "symbol": "GOTEM",
       "address": "0xa5fbc3520dd4bb85fcd175e1e3b994546a2c1ee8",
-      "icon": "https://oropocket.com/unifarm/assets/icons/gotem.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/gotem.png",
       "decimals": 18,
       "price": 0.013,
       "chainId": 56
@@ -366,7 +366,7 @@
       "name": "GameStar",
       "symbol": "GMS",
       "address": "0xdae3c2cb0ac034a4a491b112d2922f12427201a6",
-      "icon": "https://oropocket.com/unifarm/assets/icons/gms.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/gms.png",
       "decimals": 18,
       "price": 0.0036,
       "chainId": 56
@@ -375,7 +375,7 @@
       "name": "Outrace",
       "symbol": "ORE",
       "address": "0x91f006ee672f8f39c6e63ca75b1ca14067b3c366",
-      "icon": "https://oropocket.com/unifarm/assets/icons/ore.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/ore.png",
       "decimals": 8,
       "price": 0.02,
       "chainId": 56
@@ -384,7 +384,7 @@
       "name": "Fractal Investment Token",
       "symbol": "FIT",
       "address": "0x1e933ecc8251259d473827dfed48c19f2ed1889d",
-      "icon": "https://oropocket.com/unifarm/assets/icons/frac.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/frac.png",
       "decimals": 18,
       "price": 0.095,
       "chainId": 56
@@ -393,7 +393,7 @@
       "name": "Global",
       "symbol": "GLB",
       "address": "0xcf958b53ec9340886d72bb4f5f2977e8c2ab64d3",
-      "icon": "https://oropocket.com/unifarm/assets/icons/glb.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/glb.png",
       "decimals": 18,
       "price": 0.0625,
       "chainId": 56
@@ -402,7 +402,7 @@
       "name": "Ore",
       "symbol": "ORE",
       "address": "0x4ef285c8cbe52267c022c39da98b97ca4b7e2ff9",
-      "icon": "https://oropocket.com/unifarm/assets/icons/oer.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/oer.png",
       "decimals": 18,
       "price": 0.098,
       "chainId": 56
@@ -411,7 +411,7 @@
       "name": "Wrapped BNB",
       "symbol": "WBNB",
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-      "icon": "https://oropocket.com/unifarm/assets/icons/wbnb.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/wbnb.png",
       "decimals": 18,
       "price": 434.79,
       "chainId": 56
@@ -420,7 +420,7 @@
       "name": "Battleverse",
       "symbol": "BVC",
       "address": "0x9BEe0c15676a65ef3c8cdb38cB3DD31c675BbD12",
-      "icon": "https://oropocket.com/unifarm/assets/icons/bvc.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/bvc.png",
       "decimals": 18,
       "price": 0.11,
       "chainId": 56
@@ -429,7 +429,7 @@
       "name": "NFT4Play",
       "symbol": "4PLAY",
       "address": "0xf787E1B31e12c4BE0cBFA46844c5ec851eBA098d",
-      "icon": "https://oropocket.com/unifarm/assets/icons/4play.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/4play.png",
       "decimals": 18,
       "price": 0.0039,
       "chainId": 56
@@ -463,7 +463,7 @@
       "chainId": 56,
       "tags": []
     },
-        {
+    {
       "name": "Legion Token",
       "symbol": "LGX",
       "address": "0x9096B4309224d751FCB43d7eB178dcFFc122aD15",
@@ -477,7 +477,7 @@
       "name": "Safle",
       "symbol": "SAFLE",
       "address": "0x73afC23510b40dcbEABc25fFBc8C2976eD9f950c",
-      "icon": "https://oropocket.com/unifarm/assets/icons/safle.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/safle.png",
       "decimals": 18,
       "price": 0.043,
       "chainId": 56,
@@ -487,7 +487,7 @@
       "name": "CinemaDraft",
       "symbol": "CD3D",
       "address": "0x9108c36DC1DCbf08187D4f4D4579D72e6A35d979",
-      "icon": "https://oropocket.com/unifarm/assets/icons/cd3d.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/cd3d.png",
       "decimals": 9,
       "price": 0.024,
       "chainId": 56,
@@ -515,5 +515,9 @@
     }
   ],
   "label": "maintained by Oro Pocket",
-  "keywords": ["defi", "open defi", "Oro Pocket"]
+  "keywords": [
+    "defi",
+    "open defi",
+    "Oro Pocket"
+  ]
 }
